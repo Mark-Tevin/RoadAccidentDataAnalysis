@@ -12,12 +12,12 @@ Client want a Road accident Dashboard for year 2021 and 2022 to get insight of t
 FUNCTIONALITIES
 
 * Data Cleaning in power Query
-*Data processing
-*Time intelligence Function/ Calender Date Table in Power Bi
-*Data Modelling(Relationship btn multiple tables)
-*YTD and Yoy Growth Calalculations Using DAX
-*KPI n Advanced KPI Generations
-*Creating custom columns and measures in the reports
-*Importing images
-*Creating different charts and Generating insights
-*Exporting the report to users
+* Data processing
+* Time intelligence Function/ Calender Date Table in Power Bi
+* Data Modelling(Relationship btn multiple tables)
+* YTD and Yoy Growth Calalculations Using DAX
+* KPI n Advanced KPI Generations
+* Creating custom columns and measures in the reports
+* Importing images
+* Creating different charts and Generating insights
+* Exporting the report to users
