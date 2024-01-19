@@ -1,6 +1,7 @@
 Client want a Road accident Dashboard for year 2021 and 2022 to get insight of the following
 
 -Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
+
 -Primary KPI's - Total Casualties by accident severity for Current Year and YoY growth
 -Secondary KPI's - Total Casualties with respect to vehicle type for Current Year
 -Monthly trend showing comparison of casulaties for Current Year and Previous Year
